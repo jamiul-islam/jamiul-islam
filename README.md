@@ -4,7 +4,6 @@
 
 I'm a mentor, web developer and sci-fi writer. My passion is to build MERN-Stack webapps, solve problems and my goal is to develop the most accessible quantum internet. 
 
-Skills: REACT / JS / HTML / CSS / Python / Qiskit
 
 - 🔭 I’m currently working on Bright Brain BD 
 - 🌱 I’m currently learning React-Native 
@@ -50,7 +49,6 @@ Skills: REACT / JS / HTML / CSS / Python / Qiskit
 [![Google Chrome Badge](https://img.shields.io/badge/google_chrome-556532?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/lucifer1112k)
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/lucifer1112k)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lucifer1112k)](https://github.com/ryo-ma/github-profile-trophy)
 
