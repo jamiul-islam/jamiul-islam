@@ -13,6 +13,7 @@ Skills: REACT / JS / HTML / CSS / Python / Qiskit
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I can cover any pop song in the style of Green Day 
 
+![Profile views](https://gpvc.arturio.dev/lucifer1112k)  
 
 ## 🚀 Connect with me
 
@@ -22,7 +23,7 @@ Skills: REACT / JS / HTML / CSS / Python / Qiskit
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiul-islam/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucifer1112k)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamiulislamjami@hotmail.com)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-7289DA?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC9cuhb0p1HFhAk4ruomNqRg)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-#ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9cuhb0p1HFhAk4ruomNqRg)
 
 ## 💻 Languages and Tools:
 
@@ -61,4 +62,4 @@ Skills: REACT / JS / HTML / CSS / Python / Qiskit
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucifer1112k)  
 
-![Profile views](https://gpvc.arturio.dev/lucifer1112k)  
+
