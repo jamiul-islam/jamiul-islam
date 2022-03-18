@@ -2,7 +2,7 @@
 ## Hi there 👋, I'm Jamiul Islam
 #### full stack developer (MERN)
 
-I'm a mentor, web developer and sci-fi writer. My passion is to build MERN-Stack webapps, solve problems and my goal is to develop the most accessible quantum internet. 
+I'm a mentor, web developer and sci-fi writer. My passion is building MERN-Stack webapps and solving problems.
 
 
 - 🔭 I’m currently working on Bright Brain BD 
