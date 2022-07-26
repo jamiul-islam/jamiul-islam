@@ -1,6 +1,6 @@
 ![full stack developer (MERN)](https://i.ibb.co/BzGVBq1/github-Pro-Cover-Gift-PHero.jpg)
 ## Hi there 👋, I'm Jamiul Islam
-#### full stack developer (MERN)
+#### Full Stack Software Engineer (MERN)
 
 I'm a mentor, Full Stack Software Engineer and a sci-fi writer. My passion is building web & mobile applications through solving problems and pondering the questions about how the universe actually works!
 
