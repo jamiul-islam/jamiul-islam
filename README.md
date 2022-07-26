@@ -2,13 +2,12 @@
 ## Hi there 👋, I'm Jamiul Islam
 #### full stack developer (MERN)
 
-I'm a mentor, web developer and sci-fi writer. My passion is building MERN-Stack webapps and solving problems.
+I'm a mentor, Full Stack Software Engineer and a sci-fi writer. My passion is building web & mobile applications through solving problems and pondering the questions about how the universe actually works!
 
-
-- 🔭 I’m currently working on Bright Brain BD 
+- 🔭 I’m currently working at InvestSky, UAE 
 - 🌱 I’m currently learning React-Native 
-- 💬 Ask me about JavaScript, React, NodeJs, Python, Qiskit and Quantum Physics 
-- 📫 How to reach me: jamiulislamjami@hotmail.com 
+- 💬 Ask me about JavaScript, React, NodeJs, NextJs, Python, Qiskit and Quantum Physics 
+- 📫 How to reach me: jamiul@investsky.com 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I can cover any pop song in the style of Green Day 
 
@@ -58,6 +57,5 @@ I'm a mentor, web developer and sci-fi writer. My passion is building MERN-Stack
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lucifer1112k)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucifer1112k)  
 
 
