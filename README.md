@@ -32,8 +32,6 @@ I'm a mentor, Full Stack Software Engineer and a sci-fi writer. My passion is bu
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamiul-islam)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiul-islam)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jamiul-islam)  
 
 
