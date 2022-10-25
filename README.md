@@ -3,7 +3,7 @@
 </p>
 
 ## Hi there 👋, I'm Jamiul Islam
-#### Full Stack Software Engineer
+#### Front End Engineer
 
 I'm a mentor, Full Stack Software Engineer and a sci-fi writer. My passion is building web & mobile applications through solving problems and pondering the questions about how the universe actually works!
 
