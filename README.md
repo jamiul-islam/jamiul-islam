@@ -3,12 +3,12 @@
 </p>
 
 ## Hi there 👋, I'm Jamiul Islam
-#### Front End Engineer
+#### Full Stack Software Engineer
 
-I'm a mentor, Full Stack Software Engineer and a sci-fi writer. My passion is building web & mobile applications through solving problems and pondering the questions about how the universe actually works!
+I'm a mentor, Full Stack Software Engineer and a sci-fi writer. My passion is building web & mobile applications through solving problems and pondering the questions about how the universe actually works with the logical analogy of quantum physics!
 
 - 🔭 I’m currently working at InvestSky, UAE 
-- 🌱 I’m currently learning React-Native 
+- 🌱 I’m currently learning React-Native
 - 💬 Ask me about JavaScript, React, NodeJs, NextJs, Python, Qiskit and Quantum Physics 
 - 📫 How to reach me: jamiul@investsky.com 
 - 😄 Pronouns: he/him 
