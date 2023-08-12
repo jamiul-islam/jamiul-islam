@@ -13,10 +13,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"/>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -101,6 +97,6 @@
 
 ###
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=n3zdpww87loim6gwip2l9xyia&unique=true&count=2)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=n3zdpww87loim6gwip2l9xyia&unique=true&count=1)
 
 ###
