@@ -96,7 +96,3 @@
 </div>
 
 ###
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31he2xmu4jduobarkaban3ztnsfi&unique=true&count=1)
-
-###
