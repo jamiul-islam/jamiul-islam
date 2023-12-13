@@ -3,7 +3,6 @@
 ###
 
 <div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jamiul-islam&show_icons=true&locale=en" alt="jamiul-islam" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamiul-islam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="195" alt="languages graph"  />
 </div>
 
