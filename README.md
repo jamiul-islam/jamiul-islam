@@ -49,8 +49,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo"  />
