@@ -2,12 +2,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamiul-islam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="195" alt="languages graph"  />
-</div>
-
-###
-
 <p align="left">🔭 I’m currently in the self-development zone<br>🌱 I’m currently learning Korean Language<br>💬 Ask me about JavaScript, TypeScript and AI<br>📫 How to reach me: jamiulislamjami@hotmail.com<br>😄 Pronouns: he/him<br>📸 I love film photography and storytelling<br>⚡ Fun fact: I can cover any pop song in the style of Green Day</p>
 
 ###
